@@ -1,0 +1,10 @@
+기아자동차할부 Cloudflare Pages 배포 파일
+
+GitHub 저장소 ag-kia-finance에 ZIP 내용 전체를 루트에 업로드하세요 (ZIP 파일 자체를 올리지 마세요).
+Cloudflare Pages > Import Git repository > ag-kia-finance
+Framework preset: None / Build command: 비움 / Build output directory: .
+블로그 API: https://실제주소/api/latest-posts
+배포 뒤 브라우저에서 블로그 6건 표시 확인.
+주의: 원본 README에 따르면 assets/ag-unified.png는 원본이 아닌 임시 대체 이미지입니다. 실제 AG 대표 아이콘 원본으로 교체를 권장합니다.
+배포 URL 확정 뒤 index.html의 canonical/og:url 및 sitemap.xml 실제 URL 등록 필요.
+EV5 및 카니발 하이브리드 사례 숫자에 원본과 산술 차이 있으므로 확인 후 홍보용 게시 권장.
