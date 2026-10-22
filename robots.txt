@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-# 배포 주소 확정 후 sitemap.xml의 URL을 변경하세요.
+
+Sitemap: https://ag-kia-finance.pages.dev/sitemap.xml
